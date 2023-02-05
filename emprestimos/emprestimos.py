@@ -1,1 +1,3 @@
 def emprestimos
+
+print('Oi')
